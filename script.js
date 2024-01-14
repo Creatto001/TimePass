@@ -6,6 +6,7 @@ const [yesBtn, noBtn] = [".yes-btn", ".no-btn"].map(qs);
 
 const handleYesClick = () => {
   question.innerHTML = "Like my profile !!";
+  https://www.instagram.com/rahul_k_kothari/
   //gif.src = "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
   gif.src = "image/Rk.jpeg";
 
